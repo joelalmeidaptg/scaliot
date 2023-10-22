@@ -1,2 +1,3 @@
-# scaliot
-Repository to test Scala features
+# Scaliot
+
+Project to test features of Scala with IoT data.
